@@ -10,3 +10,6 @@ Adds bullshit paragraph, also changes that modyfing the license requires name ch
 
 ### [GGPL 1.1 (B)](LICENSE_GGPL_1.1_B)
 Adds copypaste bullshit to the original 1.1 to waste even more of the readers time
+
+### [GGPL 1.2](LICENSE_GGPL_1.2)
+Adds more info and fixes typo
