@@ -13,3 +13,6 @@ Adds copypaste bullshit to the original 1.1 to waste even more of the readers ti
 
 ### [GGPL 1.2](LICENSE_GGPL_1.2)
 Adds more info and fixes typo
+
+### [GGPL 1.3](LICENSE_GGPL_1.3)
+important note about ed sheeran   !!!!
